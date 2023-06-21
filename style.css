@@ -12,6 +12,12 @@ body{
     font: message-box;
     font-size: x-large;
     text-align: center;
+    display: flex ;
+}
+.menu{
+    position: absolute;
+    right: 15px;
+    top: 30px;
 }
 .titulos{
     font: menu;
